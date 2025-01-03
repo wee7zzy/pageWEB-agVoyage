@@ -13,6 +13,10 @@ header{
     display: flex;
     align-items: center;
     padding: 15px 10px;
+
+}
+header a i{
+    display: none;
 }
 
 .logo img{
@@ -25,24 +29,30 @@ header{
     padding-left: 50px;
 
 }
+
 .navigation a:hover{
     color: grey;
 }
 
+
+
 .navigation button{
     background-color: #Eb662b;
     color: #ffffff;
+    font-weight: bold;
     border-radius: 10px;
     border: none;
     padding: 10px 10px;
     transition: 0.7s ease;
     margin: 10px;
+    margin-left: 500px;
 }
 
 .navigation button:hover{
     color:black;
     transform: scale(1.1);
 }
+
 .main{
     padding: 100px 200px;
     align-items: center;
@@ -61,6 +71,7 @@ header{
 section div button{
     background-color: #Eb662b;
     color: #ffffff;
+    font-weight: bold;
     border: none;
     padding: 10px 10px;
     border-radius: 10px;
@@ -94,7 +105,6 @@ h3{
     width: 300px;
     margin-top: -200px;
     font-size: 1em;
-
 }
 
 .footer{
@@ -111,6 +121,8 @@ footer h2 {
 footer p{
     padding: 10px;
 }
+
+
 
 
 
