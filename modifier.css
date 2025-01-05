@@ -16,6 +16,41 @@ header{
 
 }
 
+.logo img{
+    width: 170px;
+}
+
+.navigation a{
+    
+    color: black;
+    padding-left: 50px;
+
+}
+
+.navigation a:hover{
+    color: grey;
+}
+
+
+
+.navigation button{
+    background-color: #Eb662b;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 10px;
+    transition: 0.7s ease;
+    margin: 10px;
+    margin-left: 500px;
+}
+
+.navigation button:hover{
+    color:black;
+    transform: scale(1.1);
+}
+
+
 
 
 
