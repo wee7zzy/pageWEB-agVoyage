@@ -50,6 +50,42 @@ header{
     transform: scale(1.1);
 }
 
+.main{
+    padding: 100px 200px;
+    align-items: center;
+    display: flex;
+    font-size: 2em;
+    padding-left: 100px;
+    padding-bottom: -1000px;
+}
+.main div h1,h6{
+    margin: 10px;
+}
+.main div h6{
+    margin-bottom: 10px;
+}
+
+section div button{
+    background-color: #Eb662b;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.7s ease;
+    
+}
+section div button:hover{
+    color: black;
+    transform: scale(1.1);
+    font-size: 0.5em;
+    display: inline-block;
+    font-weight: 600;
+    padding: 0.9375em 2.1875em;
+
+}
+
 
 
 
