@@ -104,6 +104,21 @@ h3{
     font-size: 1em;
 }
 
+.footer{
+    background-color: #Fdf0ea;
+    width: 100%;
+    padding: 3em;
+    position: relative;
+    align-items: center;
+}
+
+footer h2 {
+    padding: 10px;
+}
+footer p{
+    padding: 10px;
+}
+
 
 
 
