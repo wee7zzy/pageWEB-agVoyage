@@ -85,7 +85,24 @@ section div button:hover{
     padding: 0.9375em 2.1875em;
 
 }
+h3{
+    margin-top: 100px;
+}
 
+.content{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.card{
+    font-size: 0.5em;
+    width: 300px;
+    margin-top: -200px;
+    font-size: 1em;
+}
 
 
 
